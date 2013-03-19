@@ -1,0 +1,1 @@
+$(".philly img[rel]").overlay({effect: 'apple'});
